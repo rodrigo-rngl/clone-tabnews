@@ -8,8 +8,7 @@ function Home(){
         Durante esta semana, pedi a Deus que a protegesse e derramasse sobre você a graça necessária para que seja completamente feliz. Que seu propósito e seus dons possam servir para melhorar a vida de centenas de pessoas, tornando você uma oferta agradável a Deus. Estou ansioso para testemunhar todas as grandes realizações que estão por vir. Continue brilhando!
     </p>
     <p> Segue mais um mimo do seu anjo: </p>
-
-    <img src="pages/3D_Tailana.jpg"></img>
+    <a href="https://drive.google.com/file/d/1wnpaKKdHf_RU-R8PGww8x_2OxZvxIs1G/view?usp=sharing">Aqui!</a>
 </center>
 }
 
