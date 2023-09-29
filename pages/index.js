@@ -1,5 +1,5 @@
 function Home(){
-    return <center style="margin-left: 30%; margin-right: 30%;">
+    return <center>
     <h1>Dra. Tailana,</h1>
     <p>
         Quero aproveitar esses últimos momentos para reconhecer o incrível prazer que tive em conhecer você e compartilhar momentos especiais aqui no escritório. Além disso, quero te desejar uma vida repleta de bênçãos, prosperidade e sucesso.
