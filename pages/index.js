@@ -9,7 +9,7 @@ function Home(){
     </p>
     <p> Segue mais um mimo do seu anjo: </p>
 
-    <img src={"3D_Tailana.jpg"}></img>
+    <img src="pages/3D_Tailana.jpg"></img>
 </center>
 }
 
